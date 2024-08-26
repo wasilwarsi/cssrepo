@@ -1,5 +1,9 @@
 .subs-button{
     background-color: red;
     border: none;
-    
+    transition: opacity 0.15s;
+
+}
+.subs-button:hover{
+    opacity: 0.8;
 }
